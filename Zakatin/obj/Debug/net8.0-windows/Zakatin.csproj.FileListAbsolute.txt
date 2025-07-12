@@ -1,0 +1,253 @@
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.exe
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.deps.json
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.runtimeconfig.json
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.pdb
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.LoginForm.resources
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.AssemblyInfo.cs
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\obj\Debug\net8.0-windows\refint\Zakatin.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.pdb
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.genruntimeconfig.cache
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\obj\Debug\net8.0-windows\ref\Zakatin.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.MainForm.resources
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.ZakatForm.resources
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.csproj.Up2Date
+C:\Users\user\Downloads\Zakatin\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.Properties.Resources.resources
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.exe
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.deps.json
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.runtimeconfig.json
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.pdb
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.LoginForm.resources
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.MainForm.resources
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.Properties.Resources.resources
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.ZakatForm.resources
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.AssemblyInfo.cs
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.csproj.Up2Date
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\refint\Zakatin.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.pdb
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.genruntimeconfig.cache
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\ref\Zakatin.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.FidyahForm.resources
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.exe
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.deps.json
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.runtimeconfig.json
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.dll
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.pdb
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.FidyahForm.resources
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.LoginForm.resources
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.MainForm.resources
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.Properties.Resources.resources
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.ZakatForm.resources
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.csproj.GenerateResource.cache
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.AssemblyInfo.cs
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.csproj.Up2Date
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.dll
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\refint\Zakatin.dll
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.pdb
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.genruntimeconfig.cache
+C:\Users\user\Documents\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\ref\Zakatin.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.exe
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.deps.json
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.runtimeconfig.json
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.pdb
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.FidyahForm.resources
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.LoginForm.resources
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.MainForm.resources
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.Properties.Resources.resources
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.ZakatForm.resources
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.AssemblyInfo.cs
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.csproj.Up2Date
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\refint\Zakatin.dll
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.pdb
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.genruntimeconfig.cache
+C:\Users\user\Downloads\Zakatin-20250507T040752Z-001-20250510T135615Z-001\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\ref\Zakatin.dll
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.exe
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.deps.json
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.runtimeconfig.json
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.dll
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.pdb
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.FidyahForm.resources
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.LoginForm.resources
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.MainForm.resources
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.Properties.Resources.resources
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.ZakatForm.resources
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.csproj.GenerateResource.cache
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.AssemblyInfo.cs
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.csproj.Up2Date
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.dll
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\refint\Zakatin.dll
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.pdb
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.genruntimeconfig.cache
+C:\Users\user\Downloads\111\Zakatin-20250507T040752Z-001\Zakatin\Zakatin\obj\Debug\net8.0-windows\ref\Zakatin.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.exe
+C:\Users\user\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.deps.json
+C:\Users\user\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.runtimeconfig.json
+C:\Users\user\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.pdb
+C:\Users\user\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.FidyahForm.resources
+C:\Users\user\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.LoginForm.resources
+C:\Users\user\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.MainForm.resources
+C:\Users\user\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.Properties.Resources.resources
+C:\Users\user\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.ZakatForm.resources
+C:\Users\user\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.AssemblyInfo.cs
+C:\Users\user\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.csproj.Up2Date
+C:\Users\user\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\refint\Zakatin.dll
+C:\Users\user\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.pdb
+C:\Users\user\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.genruntimeconfig.cache
+C:\Users\user\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\ref\Zakatin.dll
+C:\Users\M S I\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.exe
+C:\Users\M S I\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.deps.json
+C:\Users\M S I\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.runtimeconfig.json
+C:\Users\M S I\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.dll
+C:\Users\M S I\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\Zakatin.pdb
+C:\Users\M S I\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\M S I\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\M S I\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\M S I\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\M S I\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\M S I\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\M S I\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\M S I\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\M S I\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\M S I\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\M S I\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\M S I\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\M S I\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\M S I\Downloads\Zakatin\Zakatin\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\M S I\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.csproj.AssemblyReference.cache
+C:\Users\M S I\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.FidyahForm.resources
+C:\Users\M S I\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.LoadingForm.resources
+C:\Users\M S I\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.LoginForm.resources
+C:\Users\M S I\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.MainForm.resources
+C:\Users\M S I\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.Properties.Resources.resources
+C:\Users\M S I\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.ZakatForm.resources
+C:\Users\M S I\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.csproj.GenerateResource.cache
+C:\Users\M S I\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M S I\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.AssemblyInfoInputs.cache
+C:\Users\M S I\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.AssemblyInfo.cs
+C:\Users\M S I\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.csproj.CoreCompileInputs.cache
+C:\Users\M S I\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.csproj.Up2Date
+C:\Users\M S I\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.dll
+C:\Users\M S I\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\refint\Zakatin.dll
+C:\Users\M S I\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.pdb
+C:\Users\M S I\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.genruntimeconfig.cache
+C:\Users\M S I\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\ref\Zakatin.dll
+C:\Users\M S I\Downloads\Zakatin\Zakatin\obj\Debug\net8.0-windows\Zakatin.InfaqForm.resources
